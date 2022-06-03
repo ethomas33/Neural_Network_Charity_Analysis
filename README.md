@@ -46,6 +46,5 @@ For this analysis I used 2 hidden layers that used the relu activation function,
 
 Attempts were made using different activation functions, increased number of neurons and the addition and subtraction of hidden layers but nothing seemed to help improve the models performance. 
 
-![FareSummaryChart]()
 ## Summary: 
 In summary the model was unable to reach the desired 75% accuracy. Expanding the type of machine learning could potentially help increase this accuracy. The next thing I would try is a decision tree model which generated a series of classified outputs.  
